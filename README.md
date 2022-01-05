@@ -23,8 +23,7 @@ You need to start the challenge by putting in a post on LinkedIn , Instagram, Tw
 Than after every 5 days once a company is done , you can make a post announcing your milestones - Milestone -1 (When company 1 is completed) , Milestone -2 (When company 2 is completed).
 Let’s get started!
 
-**
-Day 1-5 :
 
-Company Name : Goldman Sach
-**
+**Day 1-5 :**
+
+Company Name : **Goldman Sach**
