@@ -26,4 +26,4 @@ Let’s get started!
 
 **Day 1-5 :**
 
-Company Name : **Goldman Sach**
+Company Name : **Goldman Sachs**
