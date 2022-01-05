@@ -24,6 +24,6 @@ Than after every 5 days once a company is done , you can make a post announcing 
 Let’s get started!
 
 
-**Day 1-5 :
+****Day 1-5 :**
 
-Company Name : **Goldman Sachs****
+**Company Name : **Goldman Sachs******
