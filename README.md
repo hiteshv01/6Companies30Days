@@ -14,3 +14,8 @@ Let’s get started!
 **Day 1-5 :**
 
 Company Name : **Goldman Sachs**
+
+**Day 6-10 :**
+
+Company Name : **Amazon**
+
