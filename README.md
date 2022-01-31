@@ -41,12 +41,12 @@ Company Name : **Walmart**
 
 
 
-<br><br>
+<br>
 <table>
   <thead>
-    <th>Dates</th>
-    <th>Company Name</th>
-    <th>Link</th>
+    <th><b>Dates</th>
+    <th><b>Company Name</th>
+    <th><b>Link</th>
   </thead>
   <tr>
     <td>01-01-2022 - 05-01-2022</td>
