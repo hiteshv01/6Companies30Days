@@ -79,7 +79,6 @@ Company Name : **Walmart**
     <td><a href="https://github.com/hiteshv01/6Companies30Days/tree/main/Walmart"> Check it out</a></td>
   </tr>
 </table>
-
 <br>
 
 
