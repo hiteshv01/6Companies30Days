@@ -41,8 +41,7 @@ Company Name : **Walmart**
 
 
 
-
-<br><br><br>
+<br><br>
 <table>
   <thead>
     <th>Dates</th>
