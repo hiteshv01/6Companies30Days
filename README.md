@@ -49,7 +49,7 @@ Company Name : **Walmart**
     <th><b>Link</th>
   </thead>
   <tr>
-    <td>01-01-2022 - 05-01-2022</td>
+    <td><b>01-01-2022 - 05-01-2022</td>
     <td><b>Goldman Sachs</td>
     <td><a href="https://github.com/hiteshv01/6Companies30Days/tree/main/Goldman%20Sachs"> Check it out </a></td>
   </tr>
