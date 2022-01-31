@@ -54,27 +54,27 @@ Company Name : **Walmart**
     <td><a href="https://github.com/hiteshv01/6Companies30Days/tree/main/Goldman%20Sachs"> Check it out </a></td>
   </tr>
   <tr>
-    <td>06-01-2022 - 10-01-2022</td>
+    <td><b>06-01-2022 - 10-01-2022</td>
     <td><b>Amazon</td>
     <td><a href="https://github.com/hiteshv01/6Companies30Days/tree/main/Amazon"> Check it out</a></td>
   </tr>
   <tr>
-    <td>11-01-2022 - 15-01-2022</td>
+    <td><b>11-01-2022 - 15-01-2022</td>
     <td><b>Microsoft</td>
     <td><a href="https://github.com/hiteshv01/6Companies30Days/tree/main/Microsoft"> Check it out</a></td>
   </tr>
   <tr>
-    <td>16-01-2022 - 20-01-2022</td>
+    <td><b>16-01-2022 - 20-01-2022</td>
     <td><b>Adobe</td>
     <td><a href="https://github.com/hiteshv01/6Companies30Days/tree/main/Adobe"> Check it out</a></td>
   </tr>
   <tr>
-    <td>21-01-2022 - 25-01-2022</td>
+    <td><b>21-01-2022 - 25-01-2022</td>
     <td><b>Intuit</td>
     <td><a href="https://github.com/hiteshv01/6Companies30Days/tree/main/Intuit"> Check it out</a></td>
   </tr>
   <tr>
-    <td>26-01-2022 - 30-01-2022</td>
+    <td><b>26-01-2022 - 30-01-2022</td>
     <td><b>Walmart</td>
     <td><a href="https://github.com/hiteshv01/6Companies30Days/tree/main/Walmart"> Check it out</a></td>
   </tr>
